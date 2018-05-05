@@ -1,0 +1,77 @@
+{
+    "basics": {
+        "name": "Alex Villecco",
+        "profile": "Agile Software Developer",
+        "summary": "Hey guys, I’m a full stack web and mobile developer who loves working with open source technology.",
+        "email": "alexlecco24@gmail.com",
+        "location": {
+            "city": "San Miguel de Tucumán",
+            "countryCode": "TUC"
+        },
+        "profiles": [{
+            "network": "twitter",
+            "username": "leccosama"
+        }, {
+            "network": "github",
+            "username": "alexlecco"
+        }, {
+            "network": "facebook",
+            "username": "alexleccoOK"
+        }]
+    },
+    "work": [{
+        "startDate": "",
+        "endDate": "",
+        "position": "",
+        "company": "",
+        "website": "",
+        "summary": "",
+        "highlights": []
+    }, {
+        "startDate": "",
+        "endDate": "",
+        "position": "",
+        "company": "",
+        "website": "",
+        "summary": "",
+        "highlights": ["",""]
+    }],
+    "education": [{
+        "institution": "UTN FRT",
+        "degree": "Information Systems Engineering",
+        "startYear": "2009",
+        "endYear": "2016"
+    }],
+    "awards": [{
+        "title": "",
+        "date": "",
+        "awarder": ""
+    }],
+    "publications": [{
+        "name": "",
+        "publisher": ""
+    }],
+    "profiles": {
+        "github": "alexlecco",
+        "twitter": "leccosama",
+        "facebook": "alexleccoOK"
+    },
+    "skills": [{
+        "name": "Frontend",
+        "keywords": ["html", "css", "javascript", "react", "bootstrap"]
+    }, {
+        "name": "Backend",
+        "keywords": ["Node", "Ruby on Rails"]
+    }, {
+        "name": "Mobile",
+        "keywords": ["react-native", "expo"]
+    }, {
+        "name": "Data base",
+        "keywords": ["MySQL", "Postgres", "Firebase"]
+    }],
+    "hobbies": ["gaming", "running", "gym"],
+    "references": [{
+        "name": "",
+        "reference": "On Alex Lecco... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do."
+    }]
+}
