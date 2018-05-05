@@ -20,21 +20,21 @@
         }]
     },
     "work": [{
-        "startDate": "",
-        "endDate": "",
-        "position": "",
-        "company": "",
+        "startDate": "2016-07-09",
+        "endDate": "2016-12-01",
+        "position": "developer",
+        "company": "Plato del día",
         "website": "",
-        "summary": "",
-        "highlights": []
+        "summary": "At Buró Coworking, 2 friends and I created an app for uberificated food delivery",
+        "highlights": ["I learned RN, firebase and startup concepts"]
     }, {
-        "startDate": "",
-        "endDate": "",
-        "position": "",
+        "startDate": "2017-03-15",
+        "endDate": "today",
+        "position": "developer",
         "company": "",
         "website": "",
-        "summary": "",
-        "highlights": ["",""]
+        "summary": "Today I'm developing little freelance projects for friends and new customers",
+        "highlights": [""]
     }],
     "education": [{
         "institution": "UTN FRT",
